@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "ZGH7X9AJBC.com.yandex.pay.internal.sdk.sample-v2",
+                "components": [
+                    {
+                        "\/": "*"
+                    }
+                ]
+            }
+        ]
+    }
+}
